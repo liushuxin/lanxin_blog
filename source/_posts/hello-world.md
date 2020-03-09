@@ -11,6 +11,19 @@ tags:
 
 ## 摘要
 
+### 技术栈
+
+#### 基础
+
+- 闭包
+
+#### React
+
+- React 基础
+- Redux
+
+#### Vue
+
 ### 1、使用 hexo 来编写博客，首先需要学会使用 MarkDown 语言来快速写博客，
 
 语法快速概览地址：
@@ -18,6 +31,7 @@ http://www.jianshu.com/p/46a4a5e17c20#philosophy
 Markdown 教程 :http://www.appinn.com/markdown/
 发布到线上的方法：http://www.jianshu.com/p/f4dce0e76886
 Hexo API https://hexo.io/
+中文文档：https://hexo.io/zh-cn/docs/tag-plugins
 
 ### 2，基本用法命令
 
