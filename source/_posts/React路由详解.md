@@ -15,3 +15,14 @@ date: 2020-03-15 12:01:07
 ## 基本组件
 
 React Router 中有三种类型的组件
+
+1. router components
+2. route matching components
+3. navigation components
+
+### 路由
+
+&emsp;&emsp;React Router 中有三种类型的组件： router components, route matching components，和 navigation components。你在 Web 应用程序中使用的所有组件都应该从 react-router-dom 中导入。import { BrowserRouter, Route, Link } from "react-router-dom";
+路由
+
+&emsp;&emsp;每个 React Router 应用程序的核心应该是一个 router 组件。对于 Web 项目，react-router-dom 提供了 <BrowserRouter> 和 <HashRouter> 路由。这两个路由都会为你创建一个 <font color="red">专门的 history 对象</font> 。一般来说，如果你有一个<font color="green">响应请求的服务器</font> ，则你应该使用 <font color="green">&lt;BrowserRouter&gt;</font>如果你使用的是<font color="#00FFFF">静态文件的服务器</font>，则应该使用<font color="#00FFFF">&lt;HashRouter&gt;</font>。
