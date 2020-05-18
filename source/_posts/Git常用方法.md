@@ -16,10 +16,17 @@ tags:
 
 2. 在历史的迭代中，我们有可能把一些文件加入git 版本跟踪，但是发现不需要，那么我们应该怎么去除跟踪呢？
 
-```
+```git
 git rm -r --cached .
 git add .
 git commit -m '清楚永远不想跟踪的文件'
+
+```
+
+3、清除在线上已经删除的分支信息，而在本地的缓存
+
+```git
+git remote update origin --prune
 
 ```
 
