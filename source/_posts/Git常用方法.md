@@ -1,8 +1,10 @@
 ---
 title: Git常用方法
 date: 2020-04-14 12:49:58
-tags:
+categories:
   - Git
+tags:
+  - Git基础
 ---
 
 ## 非常规命令
@@ -13,8 +15,7 @@ tags:
    利用 git log 查看要合并的提交 commitId 然后
    利用这个命令来合并
 
-
-2. 在历史的迭代中，我们有可能把一些文件加入git 版本跟踪，但是发现不需要，那么我们应该怎么去除跟踪呢？
+2) 在历史的迭代中，我们有可能把一些文件加入 git 版本跟踪，但是发现不需要，那么我们应该怎么去除跟踪呢？
 
 ```git
 git rm -r --cached .
@@ -29,4 +30,3 @@ git commit -m '清楚永远不想跟踪的文件'
 git remote update origin --prune
 
 ```
-

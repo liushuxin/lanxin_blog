@@ -3,10 +3,10 @@ title: 欢迎来到刘述新的技术博客~~
 date: 2020-02-15 21:54:49
 
 categories:
-  -
+  - 思考总结
 
 tags:
-  - Injury
+  - 基础
 ---
 
 ## 摘要
@@ -76,9 +76,12 @@ Webpack 中文文档：https://www.webpackjs.com/configuration/
 http://facebook.github.io/jest/docs/en/using-matchers.html
 
 ### 在线前端编辑器
-  1. jsfiddle
-  2. codepen
+
+1. jsfiddle
+2. codepen
 
 ###### 每一次跌倒，都是成功的积累，义无反顾的坚持
+
 ###### 你需变成自己希望的样子，这个世界才会变成你希望的样子，言过于行。
+
 ###### 我们想成为一个什么样的人，我们想做什么样的事，想让这个世界因我们而有什么样的不同
