@@ -1,5 +1,5 @@
 ---
-title: Use-Hexo-Tips
+title: Hexo 使用指南
 categories: tools
 tags: hexo
 date: 2020-05-26 14:31:31
