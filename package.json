@@ -11,6 +11,9 @@
   "hexo": {
     "version": "4.2.0"
   },
+  "prettier": {
+    "bracketSpacing": false
+  },
   "dependencies": {
     "hexo": "^4.0.0",
     "hexo-generator-archive": "^1.0.0",
