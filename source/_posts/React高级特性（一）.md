@@ -35,7 +35,7 @@ ReactDOM.createPortal(child, container);
 
 ```javascript
 import React from "react";
-import { createPortal } from "react-dom";
+import {createPortal} from "react-dom";
 
 class Dialog extends React.Component {
   constructor() {
@@ -58,3 +58,7 @@ class Dialog extends React.Component {
   }
 }
 ```
+
+### 3、Error Boundaries（错误边界）
+
+&emsp;&emsp;部分 UI 的 JavaScript 错误不应该导致整个应用崩溃，为了解决这个问题，React 16 引入了一个新的概念 —— 错误边界

@@ -40,6 +40,11 @@ tags: 基础
 
 - CSS in JS (styled-components)
 
+#### 布局方式
+
+- Grid 布局
+- Flex 布局
+
 ### 3、HTML
 
 ### 4、服务端
@@ -78,7 +83,13 @@ tags: 基础
 
   - 零配置，定制化较低
 
-  7、 WebAssembly
+### 7、HTTP && HTTPS
+
+#### 框架
+
+- Axois
+
+### 7、 WebAssembly
 
 ## 二、开发思考，指导相关
 
