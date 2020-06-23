@@ -25,3 +25,15 @@ f();
 ```
 
 输出结果 undefined ,惊不惊喜，意不意外。
+
+### let 死区
+
+2、我们再看一个例子：
+
+```javascript
+let a = "hey I am outside";
+if (true) {
+  console.log(a); //Uncaught ReferenceError: a is not defined
+  let a = "hey I am inside";
+}
+```

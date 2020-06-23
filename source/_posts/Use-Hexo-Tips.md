@@ -5,6 +5,16 @@ tags: hexo
 date: 2020-05-26 14:31:31
 ---
 
+### 常用语法记录
+
+- 标红字体
+
+<font color="red">xxx</font>
+
+- 展示一张图片
+
+{% asset_img neihe.png "渲染引擎模块及其依赖的模块" %}
+
 ### 1、使用 hexo 来编写博客，首先需要学会使用 MarkDown 语言来快速写博客，
 
 语法快速概览地址：
