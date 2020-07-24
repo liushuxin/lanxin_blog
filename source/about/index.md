@@ -30,7 +30,18 @@ date: 2020-02-15 21:54:49
 - 各大编译工具的 watch 文件变化的原理
 - webpack 之 commonjs 模块化原理：https://juejin.im/post/5dc80c70e51d456f4b0ea254
 - Acorn 学习，了解（rollup 用来解析 javascript 的）
+- webpack 原理，加载原理
+- HTTP2.0 和 HTTP1.1 的区别？我们如何让我们的网站启用 HTTP2.0
+- 写一个 webpack 插件
+- 实现一个高度根据浏览器窗口变化的元素，几种实现方式
 
 #### 待看文章
 
 - [前端算法](https://juejin.im/post/5f05087cf265da22d466f60f?utm_source=gold_browser_extension#heading-11)
+- [package.json 关键字段解析](https://github.com/SunshowerC/blog/issues/8)
+- [浏览器工作原理](https://juejin.im/post/5f05d12a5188252e8406e37b?utm_source=gold_browser_extension)
+
+#### 待实现练习系统
+
+1、实现一个文档管理系统，类似 wiki
+2、实现一个 mock 平台
