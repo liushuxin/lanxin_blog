@@ -40,8 +40,13 @@ date: 2020-02-15 21:54:49
 - [前端算法](https://juejin.im/post/5f05087cf265da22d466f60f?utm_source=gold_browser_extension#heading-11)
 - [package.json 关键字段解析](https://github.com/SunshowerC/blog/issues/8)
 - [浏览器工作原理](https://juejin.im/post/5f05d12a5188252e8406e37b?utm_source=gold_browser_extension)
+- [算法时间复杂度](https://www.cnblogs.com/jack1995/p/12152833.html)
 
 #### 待实现练习系统
 
 1、实现一个文档管理系统，类似 wiki
 2、实现一个 mock 平台
+
+#### 极客时间需要学的课程：
+
+玩转 Git 三剑客：https://time.geekbang.org/course/intro/100021601
