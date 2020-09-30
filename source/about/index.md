@@ -61,3 +61,8 @@ date: 2020-02-15 21:54:49
 
 1、webkit 技术内幕
 2、浏览器垃圾回收机制
+
+## 待深入了解知识点
+
+- DOM Range 和 Framegment
+- devicePixelRatio
